@@ -1,7 +1,7 @@
 # Setup
-git config git-ftp.url ftp.example.net
-git config git-ftp.user ftp-user
-git config git-ftp.password secr3t
+git config git-ftp.url ftp.vanya05g.net
+git config git-ftp.user Vanya05g
+git config git-ftp.password VONO05.05
 
 # Upload all files
 git ftp init
