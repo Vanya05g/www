@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<!--<![endif]-->
+<head>
+
+<meta charset="utf-8">
+<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+<title>Контакты | BindHost</title>
+
+<meta name="description" content="Контакты бесплатного игрового хостинга" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+<link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+
+<link rel="shortcut icon" href="assets/icon/Favicon.png">
+<link rel="apple-touch-icon-precomposed" href="assets/icon/Favicon.png">
+</head>
+<body class="body header-fixed is_dark">
+
+
+<div id="wrapper">
+<div id="page" class="clearfix">
+
+<header id="header_main" class="header_1 js-header">
+<div class="themesflat-container">
+<div class="row">
+<div class="col-md-12">
+<div id="site-header-inner">
+<div class="wrap-box flex">
+<div id="site-logo" class="clearfix">
+<div id="site-logo-inner">
+<a href="/" rel="home" class="main-logo">
+<img id="logo_header" src="assets/images/logo/logo_dark.webp" alt="nft-gaming" width="133" height="56" data-retina="assets/images/logo/logo_dark@2x.png" data-width="133" data-height="56">
+</a>
+</div>
+</div>
+<div class="mobile-button"><span></span></div>
+<nav id="main-nav" class="main-nav">
+<ul id="menu-primary-menu" class="menu">
+<li class="menu-item">
+<a href="/">Главная</a>
+<li class="menu-item">
+<a href="serverinfo">Игровой хостинг</a>
+<li class="menu-item">
+<a href="webinfo">Веб-хостинг</a>
+<li class="menu-item">
+<a href="blog">Новости</a></li>
+<li class="menu-item menu-item-has-children">
+<a href="#">Дополнительно</a>
+<ul class="sub-menu">
+<li class="menu-item"><a href="launcher">Лаунчер</a></li>
+<li class="menu-item"><a href="faq">FAQ</a></li>
+<li class="menu-item"><a href="contact">Контакты</a></li>
+<li class="menu-item"><a href="oferta">Оферта</a></li>
+<li class="menu-item"><a href="https://vk.com/bindhost">ВКонтакте</a></li>
+</ul>
+</li>
+</nav>
+<div class="flat-search-btn flex">
+<div class="sc-btn-top mg-r-12" id="site-header">
+<a href="https://hp.bind-host.ru/account/login" class="sc-button header-slider style style-1 rocket fl-button pri-1"><span>Войти
+</span></a> </div>
+<div class="admin_active" id="header_admin">
+<div class="header_avatar">
+<div class="popup-notification">
+<div class="notification">
+<span class="number">3</span>
+<svg width="19" height="22" viewbox="0 0 19 22" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+<path d="M18.4915 15.495L17.209 13.65C17.0339 13.3992 16.9397 13.1009 16.939 12.795V7.5C16.939 5.51088 16.1488 3.60322 14.7423 2.1967C13.3357 0.790176 11.4281 0 9.43896 0C7.44984 0 5.54218 0.790176 4.13566 2.1967C2.72914 3.60322 1.93896 5.51088 1.93896 7.5V12.795C1.93824 13.1009 1.84403 13.3992 1.66896 13.65L0.386463 15.495C0.192273 15.7102 0.064576 15.977 0.018815 16.2632C-0.0269461 16.5494 0.0111884 16.8427 0.128607 17.1077C0.246026 17.3727 0.437699 17.598 0.680449 17.7563C0.923199 17.9147 1.20663 17.9993 1.49646 18H5.76396C5.9361 18.8477 6.39601 19.6099 7.06577 20.1573C7.73553 20.7047 8.57394 21.0038 9.43896 21.0038C10.304 21.0038 11.1424 20.7047 11.8122 20.1573C12.4819 19.6099 12.9418 18.8477 13.114 18H17.3815C17.6713 17.9993 17.9547 17.9147 18.1975 17.7563C18.4402 17.598 18.6319 17.3727 18.7493 17.1077C18.8667 16.8427 18.9049 16.5494 18.8591 16.2632C18.8133 15.977 18.6856 15.7102 18.4915 15.495ZM9.43896 19.5C8.97475 19.4987 8.52231 19.3538 8.14366 19.0853C7.76501 18.8168 7.4787 18.4377 7.32396 18H11.554C11.3992 18.4377 11.1129 18.8168 10.7343 19.0853C10.3556 19.3538 9.90317 19.4987 9.43896 19.5ZM1.49646 16.5C1.53036 16.4685 1.56056 16.4333 1.58646 16.395L2.89896 14.505C3.24909 14.0034 3.43751 13.4067 3.43896 12.795V7.5C3.43896 5.9087 4.0711 4.38258 5.19632 3.25736C6.32154 2.13214 7.84766 1.5 9.43896 1.5C11.0303 1.5 12.5564 2.13214 13.6816 3.25736C14.8068 4.38258 15.439 5.9087 15.439 7.5V12.795C15.4404 13.4067 15.6288 14.0034 15.979 14.505L17.2915 16.395C17.3174 16.4333 17.3476 16.4685 17.3815 16.5H1.49646Z" fill="white" />
+</svg>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+<section class="flat-title-page inner">
+<div class="overlay"></div>
+<div class="themesflat-container">
+<div class="row">
+<div class="col-md-12">
+<div class="page-title-heading mg-bt-12">
+<h1 class="heading text-center">Контакты</h1>
+</div>
+<div class="breadcrumbs style2">
+<ul>
+<li><a href="/">Главная</a></li>
+<li><a href="#">Дополнительно</a></li>
+<li>Контакты</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="tf-contact tf-section">
+<div class="themesflat-container">
+<div class="row">
+<div class="col-lg-6 col-md-6 col-12">
+<div class="box-feature-contact">
+<img src="assets/images/blog/thumb-8.webp" alt="Image">
+</div>
+</div>
+<div class="col-lg-6 col-md-6 col-12">
+<h2 class="tf-title-heading style-2 mg-bt-12">
+О нас
+</h2>
+<h5 class="sub-title style-1">
+Мы - команда профессионалов, готовая помочь Вам в любую минуту. Более половины наших клиентов совершенно ничего не понимали в создании своего сервера. Все трудности создания мы можем взять на себя! Круглосуточно наша система мониторинга отслеживает более 30 показателей на каждой из локаций и связанных серверах. В число этих показателей входят скорость и потери на канале, скорость чтения и записи дисков, загруженность системы, использование ресурсов оперативной памяти и процессора. Информация о любых сбоях и аномалиях моментально отправляется нашим специалистам. Как показывает практика, 90% проблем решается в течении 10 минут с момента их появления. С нами вы можете быть уверены в качестве своих проектов.<br>BindHost - создать свой сервер еще никогда не было так просто.
+</h5>
+<h2 class="tf-title-heading style-2 mg-bt-12">
+Контактная информация
+</h2>
+<h5 class="sub-title style-1">
+Наш сайт: bind-host.ru<br>Панель управления: hp.bind-host.ru<br>Мобильное приложение: vk.cc/ckuVF3<br>Беседа клиентов: vk.cc/cimVzg
+</h5>
+<h2 class="tf-title-heading style-2 mg-bt-12">
+Техническая поддержка
+</h2>
+<h5 class="sub-title style-1">
+Техническая поддержка оказывается после создание тикета в панели<br>(hp.bind-host.ru/tickets/create), так же в сообщениях нашей группы ВКонтакте (vk.com/bindhost) после ввода команды !оператор
+</h5>
+<div class="form-inner">
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<footer id="footer" class="clearfix style3">
+<div class="themesflat-container">
+<div class="row">
+<div class="col-lg-3 col-md-12 col-12">
+<div class="widget widget-logo">
+<div class="logo-footer" id="logo-footer">
+<a href="/">
+<img id="logo_footer" src="assets/images/logo/logo_dark.webp" alt="nft-gaming" width="135" height="56" data-retina="assets/images/logo/logo_dark@2x.png" data-width="135" data-height="56">
+</a>
+</div>
+<p class="sub-widget-logo">Мы не экономим на железе, поэтому можем гарантировать, что ваш сервер будет работать идеально. Даже если ваш сервер бесплатный - мы готовы помочь по всем вопросам. </p>
+</div>
+</div>
+<div class="col-lg-2 col-md-4 col-sm-5 col-5">
+<div class="widget widget-menu style-1">
+<h5 class="title-widget">Аккаунт</h5>
+<ul>
+<li><a href="https://hp.bind-host.ru/main/acc">Мой профиль</a></li>
+<li><a href="https://hp.bind-host.ru/tickets">Мои тикеты</a></li>
+<li><a href="https://hp.bind-host.ru/account/invoices">История пополнений</a></li>
+<li><a href="https://hp.bind-host.ru/account/waste">История списаний</a></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-2 col-md-4 col-sm-7 col-7">
+<div class="widget widget-menu style-2">
+<h5 class="title-widget">Ресурсы</h5>
+<ul>
+<li><a href="https://hp.bind-host.ru/tickets/create">Помощь & Поддержка</a></li>
+<li><a href="https://vk.com/bindhost">ВКонтакте</a></li>
+<li><a href="https://hp.bind-host.ru/tickets/create">ChatGPT</a></li>
+<li><a href="https://hp.bind-host.ru/account/pay">Баланс</a></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-2 col-md-4 col-sm-5 col-5">
+<div class="widget widget-menu fl-st-3">
+<h5 class="title-widget">BindHost</h5>
+<ul>
+<li><a href="https://hp.bind-host.ru/launcher/order">Лаунчер</a></li>
+<li><a href="https://hp.bind-host.ru/BindHost.apk">Мобильное приложение</a></li>
+<li><a href="contact">Контакты</a></li>
+<li><a href="oferta">Оферта</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+
+
+
+<a id="scroll-top"></a>
+
+<script src="assets/js/jquery.min.js" type="b9da0e1b5d234908daa9a7c6-text/javascript"></script>
+<script src="assets/js/jquery.easing.js" type="b9da0e1b5d234908daa9a7c6-text/javascript"></script>
+<script src="assets/js/wow.min.js" type="b9da0e1b5d234908daa9a7c6-text/javascript"></script>
+<script src="assets/js/plugin.js" type="b9da0e1b5d234908daa9a7c6-text/javascript"></script>
+<script src="assets/js/jquery-validate.js" type="b9da0e1b5d234908daa9a7c6-text/javascript"></script>
+<script src="assets/js/shortcodes.js" type="b9da0e1b5d234908daa9a7c6-text/javascript"></script>
+<script src="assets/js/main.js" type="b9da0e1b5d234908daa9a7c6-text/javascript"></script>
+<script src="assets/js/swiper-bundle.min.js" type="b9da0e1b5d234908daa9a7c6-text/javascript"></script>
+<script src="assets/js/web3.min.js" type="b9da0e1b5d234908daa9a7c6-text/javascript"></script>
+<script src="assets/js/moralis.js" type="b9da0e1b5d234908daa9a7c6-text/javascript"></script>
+<script src="assets/js/nft.js" type="b9da0e1b5d234908daa9a7c6-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b9da0e1b5d234908daa9a7c6-|49" defer></script></body>
+</html>
